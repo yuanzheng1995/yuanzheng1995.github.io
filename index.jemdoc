@@ -6,7 +6,6 @@
 [https://yzseven.github.io Zheng Yuan], Ph.D. \n 
 \n
 
-Email: ZhengYuan2025@u.northwestern.edu\n
 \[[CV.pdf Curriculem Vitae]\] \n
 ~~~
 
@@ -14,9 +13,7 @@ Email: ZhengYuan2025@u.northwestern.edu\n
 
 I am a first year PhD student in [https://statistics.northwestern.edu/ Statistics] at [https://www.northwestern.edu/ Northwestern University]. Prior to joining Northwestern, I reeceived my Master's degree in [https://stat.duke.edu/ Statistical Science] at [https://duke.edu/ Duke University] advised by Prof. [https://pdhoff.github.io/ Peter Hoff] and Prof. [http://www2.stat.duke.edu/~clyde/ Merlise A. Clyde].\n
 
-I am broadly interested in statistical inference and statistical learning, with specific interests in developing methods which leverage structure in the data or feature information to yield better prediction and inference. I am also really interested in understanding how statistical analyses can have a great impact on decision making, as well as how statistics is communicated to the public and in the classroom.\n
-
-I am running a blog, [https://statscollection.wordpress.com\ Treasure in Statistics], where I write short posts about concepts and ideas in statistics and related fields which interest me. This is also a place for me to clarify some of my thoughts and pen down notes for future reference; hopefully it can be of use to others! :)
+I am broadly interested in statistical inference and statistical learning, with specific interests in developing methods which leverage structure in the data or feature information to yield better prediction and inference. I am also really interested in understanding how statistical analyses can have a great impact on decision making, as well as how statistics is communicated to the public and in the classroom. I am running a blog, [https://statscollection.wordpress.com\ Treasure in Statistics], where I write short posts about concepts and ideas in statistics and related fields which interest me. This is also a place for me to clarify some of my thoughts and pen down notes for future reference; hopefully it can be of use to others! :)
 
 == Education 
 - Ph.D. in Statistics, Northwestern University, Sep. 2020 - present
@@ -24,10 +21,19 @@ I am running a blog, [https://statscollection.wordpress.com\ Treasure in Statist
 - B.S. in Statistics, Nankai University, Sep. 2014 - Jun. 2018
 
 == Research Interests 
-- Statistical Machine Learning 
-- Deep Learning 
-- Information Retrieval
-- Recommender System
-- Data Mining
-- Optimization
-- Fairness 
+- Statistical Inference
+
+- Bayesian Statistics
+
+- Probability Theory
+
+- Stochastic Process
+
+- Deep Learning Theory
+
+== Contact
+
+ZhengYuan2025@u.northwestern.edu\n
+2006 Sheridan Rd, \n
+Evanston, IL 60208
+
