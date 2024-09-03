@@ -20,6 +20,29 @@ I am broadly interested in statistical inference and statistical learning, with 
 - M.S. in Statistical Science, Duke University, Aug. 2018 - May. 2020
 - B.S. in Statistics, Nankai University, Sep. 2014 - Jun. 2018
 
+== Select Machine Learning and Data Science Projects
+
+=== Deep Learning
+
+~~~
+{Credit Card Fraud Detection Predictive Models}
+- Highly unbalanced dataset with 492 frauds out of 284,807 transactions
+- Perform data cleaning and exploratoty data analysis
+- Exploit certain performance metrics and resampling method to handle imbalanced data
+- Apply Random Forest, Naive Baysian, AdaBoost, XGBoost, LightGBM and ANN classifiers
+- Calculate the ROC-AUC score for each classifier and compare
+~~~
+
+~~~
+{House Prices Prediction Using TensorFlow-Based Decision Forests}
+- Dataset contains 1460 entries of 79 feature variables covering different aspects of residential homes in Ames, Iowa
+- Perform data cleaning and exploratoty data analysis
+- Train Random Forest, Gradient Boosted Trees and Distributed Gradient Boosted Trees
+- Calculate the Root Mean Squared Error (RMSE) from cross-validation for each algorithm and compare
+~~~
+
+
+
 == Contact
 
 ZhengYuan2025@u.northwestern.edu\n
