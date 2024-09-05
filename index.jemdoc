@@ -41,6 +41,17 @@ I am broadly interested in statistical inference and statistical learning, with 
 - Calculate the Root Mean Squared Error (RMSE) from cross-validation for each algorithm and compare
 ~~~
 
+=== Bayesian
+
+~~~
+{How many yards will an NFL player gain after receiving a handoff?}
+- Dataset contains game, play, and player-level data, including the position and speed of players
+- Build Random Forest and ANN models to predict how many yards a team will gain on given rushing plays
+- Models are tested by Continuous Ranked Probability Score (CRPS)
+- Use Bayesian optimization to tune the hyperparameters with the mean cross-validation score as optimization object 
+~~~
+
+
 
 
 == Contact
